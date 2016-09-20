@@ -25,17 +25,32 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="/course_images/ios_for_designers/littleTipster.gif" target="_blank"><img src='/course_images/ios_for_designers/littleTipster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
 Describe any challenges encountered while building the app.
+
+* Everything’s brand new.
+* Kept defaulting to trying PHP syntax when in doubt (not helpful).
+* Kept defaulting to Javascript syntax, i.e. semicolons after everything from muscle memory (not helpful)
+* Linked the wrong object for the calculateTip function and started over when I couldn’t figure out the issue
+* Guerrilla user testing showed that having the grand total due first was confusing; user expected large number to be the input number; solution — change order of elements.
+* Setting “focus” for the bill total on load (first responder)
+* Getting the keyboard to appear on load (turn off hardware keyboard)
+
+### Outstanding items/idea backlog — 
+* Remove the background colour and line for the navigation controller
+* Remove dollar sign from placeholder and consistently append to bill value total
+* Experiment “absolutely” positioned decimal points
+* Embed desired custom font (not in the custom list)
+* Experiment with custom tip values
+* Experiment with shared cost (i.e. splitting the tab)
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Kathryn Thomas Hastings]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
