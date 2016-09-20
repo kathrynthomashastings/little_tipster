@@ -1,6 +1,6 @@
-# Pre-work - Tip Calculator App
+# Pre-work - Little Tipster
 
-Tip Calculator is a tip calculator application for iOS.
+Little Tipster is a tip calculator application for iOS.
 
 Submitted by: Kathryn Thomas Hastings
 
