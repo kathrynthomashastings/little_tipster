@@ -47,6 +47,7 @@ Describe any challenges encountered while building the app.
 * Embed desired custom font (not in the custom list)
 * Experiment with custom tip values
 * Experiment with shared cost (i.e. splitting the tab)
+* Explore animations!
 
 ## License
 
